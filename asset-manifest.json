@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/WWEslider/static/css/main.fc25d1d5.chunk.css",
+    "main.js": "/WWEslider/static/js/main.89bd1b77.chunk.js",
+    "main.js.map": "/WWEslider/static/js/main.89bd1b77.chunk.js.map",
+    "runtime-main.js": "/WWEslider/static/js/runtime-main.28d12096.js",
+    "runtime-main.js.map": "/WWEslider/static/js/runtime-main.28d12096.js.map",
+    "static/js/2.8e2aef3c.chunk.js": "/WWEslider/static/js/2.8e2aef3c.chunk.js",
+    "static/js/2.8e2aef3c.chunk.js.map": "/WWEslider/static/js/2.8e2aef3c.chunk.js.map",
+    "static/js/3.9cb0d9dd.chunk.js": "/WWEslider/static/js/3.9cb0d9dd.chunk.js",
+    "static/js/3.9cb0d9dd.chunk.js.map": "/WWEslider/static/js/3.9cb0d9dd.chunk.js.map",
+    "index.html": "/WWEslider/index.html",
+    "static/css/main.fc25d1d5.chunk.css.map": "/WWEslider/static/css/main.fc25d1d5.chunk.css.map",
+    "static/js/2.8e2aef3c.chunk.js.LICENSE.txt": "/WWEslider/static/js/2.8e2aef3c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28d12096.js",
+    "static/js/2.8e2aef3c.chunk.js",
+    "static/css/main.fc25d1d5.chunk.css",
+    "static/js/main.89bd1b77.chunk.js"
+  ]
+}
